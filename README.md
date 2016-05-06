@@ -21,7 +21,7 @@ const root = document.querySelector('main')
 ReactDOM.render(<DummyComponent />, root)
 ```
 
-Rollup will magically includes only what you need in your bundle depending on the imports!
+Rollup will magically include only what you need in your bundle depending on the imports!
 
 ## Prerequisite
 
