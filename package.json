@@ -25,25 +25,23 @@
     "node": ">=5.0.0"
   },
   "dependencies": {
-    "react": "15.1.0",
-    "react-dom": "15.1.0"
+    "react": "15.2.0",
+    "react-dom": "15.2.0"
   },
   "devDependencies": {
-    "babel-cli": "6.7.7",
-    "babel-preset-es2015-rollup": "1.1.0",
-    "babel-preset-react": "6.5.0",
+    "babel-preset-es2015-rollup": "1.1.1",
+    "babel-preset-react": "6.11.1",
     "babel-preset-stage-0": "6.5.0",
     "browser-sync": "2.13.0",
-    "npm-run-all": "2.1.2",
+    "npm-run-all": "2.3.0",
     "onchange": "2.5.0",
-    "rollup": "0.31.2",
+    "rollup": "0.33.0",
     "rollup-plugin-babel": "2.4.0",
-    "rollup-plugin-commonjs": "3.0.0",
+    "rollup-plugin-commonjs": "3.1.0",
     "rollup-plugin-node-globals": "1.0.5",
-    "rollup-plugin-node-resolve": "1.7.0",
-    "rollup-plugin-npm": "1.4.0",
-    "rollup-plugin-replace": "1.1.0",
-    "rollup-plugin-uglify": "1.0.0",
+    "rollup-plugin-node-resolve": "1.7.1",
+    "rollup-plugin-replace": "1.1.1",
+    "rollup-plugin-uglify": "1.0.1",
     "snazzy": "4.0.0",
     "standard": "7.1.2"
   },
