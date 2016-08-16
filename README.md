@@ -12,7 +12,7 @@ npm install --global babel-react-rollup-starter
 
 ### Development
 
-Running the following command will open your default browser to `html/index-dev.html`. Thanks to [Browsersync](https://www.browsersync.io/), any modifications inside *src* trigger a browser refresh:
+Running the following command will open your default browser to `html/index-dev.html`. Thanks to [Browsersync](https://www.browsersync.io/), any modifications inside `src` trigger a browser refresh:
 
 ```sh
 npm test
