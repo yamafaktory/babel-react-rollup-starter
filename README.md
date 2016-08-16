@@ -28,9 +28,9 @@ npm run build:dev
 
 1. First run the following command:
 
-```sh
-npm run build
-```
+ ```sh
+ npm run build
+ ```
 
 2. Open `html/index.html` in your browser.
 
