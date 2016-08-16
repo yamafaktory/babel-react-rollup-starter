@@ -32,7 +32,7 @@ npm run build:dev
 npm run build
 ```
 
-2.  open `html/index.html` in your browser.
+2. Open `html/index.html` in your browser.
 
 The Rollup production configuration file changes `NODE_ENV` to production and minifies the code with [UglifyJS](http://lisperator.net/uglifyjs/).
 

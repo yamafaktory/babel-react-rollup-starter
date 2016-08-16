@@ -2,7 +2,7 @@
   "name": "babel-react-rollup-starter",
   "version": "1.3.0",
   "title": "babel-react-rollup-starter",
-  "description": "A simple starter project to build cool React applications with Babel and Rollup.",
+  "description": "A simple boilerplate for web apps with React, Babel, and Rollup.",
   "keywords": [
     "Babel",
     "Browsersync",
