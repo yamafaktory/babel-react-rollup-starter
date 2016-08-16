@@ -1,6 +1,6 @@
 # babel-react-rollup-starter [![Build Status](https://travis-ci.org/yamafaktory/babel-react-rollup-starter.svg?branch=master)](https://travis-ci.org/yamafaktory/babel-react-rollup-starter) [![npm version](https://img.shields.io/npm/v/babel-react-rollup-starter.svg?style=flat)](https://www.npmjs.com/package/babel-react-rollup-starter) [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
 
-> A simple boilerplate to build [React](https://facebook.github.io/react/) applications with [Babel](http://babeljs.io/) and [Rollup](http://rollupjs.org/).
+> A simple boilerplate for web apps with [React](https://facebook.github.io/react/), [Babel](http://babeljs.io/), and [Rollup](http://rollupjs.org/).
 
 ## Installation
 
@@ -12,13 +12,13 @@ npm install --global babel-react-rollup-starter
 
 ### Development
 
-Running the following command will open your default browser pointing to `html/index-dev.html` thanks to [Browsersync](https://www.browsersync.io/). Any modifications to files in *src* directory triggers a new development build and refresh your browser:
+Running the following command will open your default browser to `html/index-dev.html`. Thanks to [Browsersync](https://www.browsersync.io/), any modifications inside *src* trigger a browser refresh:
 
 ```sh
 npm test
 ```
 
-To generate a development:
+To generate a development bundle:
 
 ```sh
 npm run build:dev
@@ -34,7 +34,7 @@ npm run build
 
 2.  open `html/index.html` in your browser.
 
-The Rollup production configuration file switches the NodeJS environment to production and minifies the code with [UglifyJS](http://lisperator.net/uglifyjs/).
+The Rollup production configuration file changes `NODE_ENV` to production and minifies the code with [UglifyJS](http://lisperator.net/uglifyjs/).
 
 ## Linting
 
