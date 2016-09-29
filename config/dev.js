@@ -13,7 +13,8 @@ export default {
     babel({
       babelrc: false,
       exclude: 'node_modules/**',
-      presets: [ 'es2015-rollup', 'stage-0', 'react' ]
+      presets: [ [ 'es2015', { modules: false } ], 'stage-0', 'react' ],
+      plugins: [ 'external-helpers' ]
     }),
     cjs({
       exclude: 'node_modules/process-es6/**',
