@@ -2538,9 +2538,9 @@ normalize-path@^2.0.1:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/normalize-path/-/normalize-path-2.0.1.tgz#47886ac1662760d4261b7d979d241709d3ce3f7a"
 
-npm-run-all@4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/npm-run-all/-/npm-run-all-4.0.0.tgz#6c729dc9fb46b610b435039568bc7469ae7356fe"
+npm-run-all@4.0.1:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/npm-run-all/-/npm-run-all-4.0.1.tgz#f10144d20b57ed9bbf6c36a8de9502e0b80f2b4e"
   dependencies:
     chalk "^1.1.3"
     cross-spawn "^5.0.1"
