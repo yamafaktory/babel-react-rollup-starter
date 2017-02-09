@@ -44,7 +44,7 @@
     "rollup-plugin-replace": "1.1.1",
     "rollup-plugin-uglify": "1.0.1",
     "snazzy": "6.0.0",
-    "standard": "8.6.0"
+    "standard": "9.0.0-beta.0"
   },
   "scripts": {
     "prebuild": "npm run std --silent",
