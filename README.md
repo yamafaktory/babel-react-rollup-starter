@@ -16,7 +16,10 @@ Or using Git:
 ```sh
 git clone https://github.com/yamafaktory/babel-react-rollup-starter.git
 cd babel-react-rollup-starter
+npm i
 ```
+
+For a faster installation, use [yarn](https://yarnpkg.com/en/) instead of npm.
 
 ## Usage
 
