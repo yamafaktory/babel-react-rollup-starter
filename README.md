@@ -5,8 +5,17 @@
 
 ## Installation
 
+Via **npm** into a fresh project:
+
 ```sh
-npm install --global babel-react-rollup-starter
+npm i babel-react-rollup-starter
+```
+
+Or using Git:
+
+```sh
+git clone https://github.com/yamafaktory/babel-react-rollup-starter.git
+cd babel-react-rollup-starter
 ```
 
 ## Usage
