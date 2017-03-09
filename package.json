@@ -36,7 +36,7 @@
     "browser-sync": "2.18.8",
     "npm-run-all": "4.0.2",
     "onchange": "3.2.1",
-    "rollup": "0.41.4",
+    "rollup": "0.41.5",
     "rollup-plugin-babel": "2.7.1",
     "rollup-plugin-commonjs": "7.0.0",
     "rollup-plugin-node-globals": "1.1.0",
