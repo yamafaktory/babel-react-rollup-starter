@@ -1,6 +1,6 @@
 {
   "name": "babel-react-rollup-starter",
-  "version": "1.14.3",
+  "version": "2.0.0",
   "title": "babel-react-rollup-starter",
   "description": "A simple boilerplate for web apps with React, Babel, and Rollup.",
   "keywords": [
