@@ -22,7 +22,8 @@ export default {
         'node_modules/fbjs/**',
         'node_modules/object-assign/**',
         'node_modules/react/**',
-        'node_modules/react-dom/**'
+        'node_modules/react-dom/**',
+        'node_modules/prop-types/**'
       ]
     }),
     globals(),
