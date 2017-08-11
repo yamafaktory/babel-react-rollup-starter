@@ -19,6 +19,7 @@ export default {
     cjs({
       exclude: 'node_modules/process-es6/**',
       include: [
+        'node_modules/create-react-class/**',
         'node_modules/fbjs/**',
         'node_modules/object-assign/**',
         'node_modules/react/**',
