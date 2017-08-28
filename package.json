@@ -35,7 +35,7 @@
     "babel-preset-react": "6.24.1",
     "babel-preset-stage-0": "6.24.1",
     "browser-sync": "2.18.13",
-    "npm-run-all": "4.0.2",
+    "npm-run-all": "4.1.1",
     "rollup": "0.45.2",
     "rollup-plugin-babel": "3.0.1",
     "rollup-plugin-commonjs": "8.1.0",
