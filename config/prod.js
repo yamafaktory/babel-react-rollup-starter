@@ -6,7 +6,7 @@ import uglify from 'rollup-plugin-uglify'
 import config from './dev'
 
 // Inject the production settings.
-config.dest = 'build/app.min.js'
+config.output.file = 'build/app.min.js'
 config.plugins[3] = replace({ 'process.env.NODE_ENV': JSON.stringify('production') })
 config.plugins.push(uglify())
 

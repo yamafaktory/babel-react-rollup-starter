@@ -6,9 +6,11 @@ import replace from 'rollup-plugin-replace'
 import resolve from 'rollup-plugin-node-resolve'
 
 export default {
-  dest: 'build/app.js',
-  entry: 'src/index.js',
-  format: 'iife',
+  input: 'src/index.js',
+  output: {
+    file: 'build/app.js',
+    format: 'iife'
+  },
   plugins: [
     babel({
       babelrc: false,
@@ -34,5 +36,5 @@ export default {
       main: true
     })
   ],
-  sourceMap: true
+  sourcemap: true
 }
