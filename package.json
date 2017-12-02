@@ -25,7 +25,7 @@
     "node": ">=6.0.0"
   },
   "dependencies": {
-    "react": "16.0.0",
+    "react": "16.2.0",
     "react-dom": "16.2.0"
   },
   "devDependencies": {
@@ -35,10 +35,10 @@
     "babel-preset-react": "6.24.1",
     "babel-preset-stage-0": "6.24.1",
     "browser-sync": "2.18.13",
-    "npm-run-all": "4.1.1",
-    "rollup": "0.50.0",
+    "npm-run-all": "4.1.2",
+    "rollup": "0.52.0",
     "rollup-plugin-babel": "3.0.2",
-    "rollup-plugin-commonjs": "8.2.1",
+    "rollup-plugin-commonjs": "8.2.6",
     "rollup-plugin-node-globals": "1.1.0",
     "rollup-plugin-node-resolve": "3.0.0",
     "rollup-plugin-replace": "2.0.0",
