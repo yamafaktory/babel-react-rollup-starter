@@ -1,6 +1,6 @@
 // Rollup plugins.
 import replace from 'rollup-plugin-replace'
-import uglify from 'rollup-plugin-uglify'
+import { uglify } from 'rollup-plugin-uglify'
 
 // Import the development configuration.
 import config from './dev'
